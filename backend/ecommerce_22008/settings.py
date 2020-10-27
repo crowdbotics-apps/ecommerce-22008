@@ -52,6 +52,10 @@ INSTALLED_APPS = [
     "location",
     "wallet",
     "task_category",
+    "delivery_order",
+    "driver",
+    "menu",
+    "delivery_user_profile",
 ]
 LOCAL_APPS = [
     "home",
